@@ -1,0 +1,38 @@
+body {margin: 0px auto;
+      font-family: Raleway;
+      }
+
+.container {margin: 0px auto;}
+
+.App-logo {
+  height: 50px;
+  margin: 7px auto;
+}
+
+img.bewerbungsfoto {
+    margin-top: 35px;
+    height: 250px;
+    float: right;
+}
+
+td, th {
+    padding: 0px;
+    display: table-cell;
+    text-align: left;
+    vertical-align: top;
+    border-radius: 2px;
+}
+
+.allgemeineSkills ul li {
+  display: inline;
+  padding: 0px 5px;
+    }
+.allgemeineSkills ul li:after {
+        content: '|';
+        margin-left: 10px;
+    }
+footer {
+  height: 90px;
+  background: #586f8c;
+  color: #fff;
+}
